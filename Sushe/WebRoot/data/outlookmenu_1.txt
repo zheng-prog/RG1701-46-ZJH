@@ -1,0 +1,7 @@
+﻿[
+	{ id: "menu", text: "功能菜单"},
+	{ id: "taskMenu", pid: "menu", text: "学生管理", iconCls: "icon-add", url: "MyStudent.action" },
+	{ id: "addUser", pid: "menu", text: "学生缺寝记录", iconCls: "icon-add", url: "MyLog.action" },
+	{ id: "addUser", pid: "menu", text: "修改密码", iconCls: "icon-add", url: "PasswordUpdate.jsp" }
+	
+]

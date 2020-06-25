@@ -1,0 +1,14 @@
+﻿[
+	{ id: "menu", text: "功能菜单"},
+	{ id: "fileMenu", pid: "menu", text: "楼宇管理员管理", iconCls: "icon-add", url: "TeacherManager.action" },
+	{ id: "taskMenu", pid: "menu", text: "学生管理", iconCls: "icon-add", url: "StudentManager.action" },
+	{ id: "addUser", pid: "menu", text: "楼宇管理", iconCls: "icon-add", url: "BuildingManager.action" },
+	{ id: "addUser", pid: "menu", text: "宿舍管理", iconCls: "icon-add", url: "DomitoryManager.action" },
+	{ id: "addUser", pid: "menu", text: "学生入住登记", iconCls: "icon-add", url: "StudentRZ.action" },
+	{ id: "addUser", pid: "menu", text: "学生寝室调换", iconCls: "icon-add", url: "StudentTH.jsp" },
+	{ id: "addUser", pid: "menu", text: "学生迁出登记", iconCls: "icon-add", url: "StudentQC.jsp" },
+	{ id: "addUser", pid: "menu", text: "学生缺寝记录", iconCls: "icon-add", url: "AdminLog.action" },
+	{ id: "addUser", pid: "menu", text: "迁出记录", iconCls: "icon-add", url: "OutList.action" },
+	{ id: "addUser", pid: "menu", text: "修改密码", iconCls: "icon-add", url: "PasswordUpdate.jsp" }
+	
+]

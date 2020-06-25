@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="struct2 库文件">
+    <CLASSES>
+      <root url="file://F:/IDEA/struct2 库文件" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://F:/IDEA/struct2 库文件/commons-fileupload-1.4-bin/apidocs" />
+      <root url="file://F:/IDEA/struct2 库文件/commons-fileupload-1.4-bin/site/apidocs" />
+    </JAVADOC>
+    <SOURCES />
+    <jarDirectory url="file://F:/IDEA/struct2 库文件" recursive="false" />
+  </library>
+</component>

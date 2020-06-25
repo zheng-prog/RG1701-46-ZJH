@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="unnamed">
+    <output-path>$PROJECT_DIR$/classes/artifacts/unnamed</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Sushe" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="F:/apache-tomcat/apache-tomcat-8.0.20/lib/mysql-connector-java-8.0.15.jar" />
+          <element id="file-copy" path="F:/IDEA/struct2 库文件/log4j2包/log4j-api-2.11.1.jar" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Sushe/web/Web" />
+    </root>
+  </artifact>
+</component>
